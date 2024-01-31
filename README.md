@@ -1,1 +1,1 @@
-[DEMO LINK](https://VictoriaPukalo.github.com/Birthday-card/)
+[DEMO LINK](https://github.com/VictoriaPukalo/Birthday-card.git)
