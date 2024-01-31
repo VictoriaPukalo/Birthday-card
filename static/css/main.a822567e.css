@@ -1,0 +1,2 @@
+*{box-sizing:border-box;font-family:sans-serif;margin:0;padding:0}.main{align-items:center;background:#111;display:flex;flex-wrap:wrap;gap:0 10px;height:100vh;justify-content:center;overflow:hidden;width:100vw}.box,.main{position:relative}.box{color:#222;font-size:1.33em;font-weight:700;text-transform:uppercase}.box:nth-child(odd):before{content:"Happy Birthday\a Fellow coder";white-space:pre}.box:nth-child(2n):before{content:"You're not aging\aYou're upgrating";filter:hue-rotate(180deg);white-space:pre}.box.animate{color:#0df}
+/*# sourceMappingURL=main.a822567e.css.map*/
